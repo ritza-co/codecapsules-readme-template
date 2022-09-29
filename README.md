@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  The simplest way to deploy your code <br/> 
+  <i>The simplest way to deploy your code.</i><br/> 
   <a href="https://codecapsules.io/">https://codecapsules.io</a>
 </p>
 
